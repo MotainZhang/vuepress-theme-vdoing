@@ -1,3 +1,17 @@
+---
+title: h5 picker插件
+date: 2022-08-11 10:51:18
+permalink: /pages/922650/
+categories:
+  - 技术
+  - 技术文档
+tags:
+  -
+author:
+  name: MotainZhang
+  link: https://github.com/MotainZhang
+---
+
 # 介绍
 
 用于angularJS h5页面 类似于小程序picker pickerView组件（城市级联选择，日期选择等等）
