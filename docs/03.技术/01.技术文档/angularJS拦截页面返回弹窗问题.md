@@ -1,3 +1,17 @@
+---
+title: angularJS拦截页面返回弹窗问题
+date: 2022-08-11 10:51:18
+permalink: /pages/922650/
+categories:
+  - 技术
+  - 技术文档
+tags:
+  -
+author:
+  name: MotainZhang
+  link: https://github.com/MotainZhang
+---
+
 # 业务需求
 
 需要在一些表单填写页，并且只是一个单页面，在填写过程中点击浏览器返回按钮，或者是微信浏览器等场景，弹窗继续填写，确认退出的dialog
