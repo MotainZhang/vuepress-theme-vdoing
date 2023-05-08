@@ -1,7 +1,7 @@
 ---
 title: html2canvas实现渐变
 date: 2022-08-11 10:51:18
-permalink: /pages/922650/
+permalink: /pages/9a7ee40fc232253e
 categories:
   - 技术
   - 技术文档
