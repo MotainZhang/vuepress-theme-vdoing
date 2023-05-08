@@ -1,3 +1,17 @@
+---
+title: html2canvas实现渐变
+date: 2022-08-11 10:51:18
+permalink: /pages/922650/
+categories:
+  - 技术
+  - 技术文档
+tags:
+  -
+author:
+  name: MotainZhang
+  link: https://github.com/MotainZhang
+---
+
 # html2canvas插件本身不支持文字渐变字（`background-clip: text` nor `box-shadow` are currently supported），如果要实现渐变字，这里涉及到修改插件源码
 
 # 第一步
